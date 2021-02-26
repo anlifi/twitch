@@ -20,7 +20,7 @@ This project is created with:
 * SQLite - 3.33.0
 
 ## Inspiration
-The project is based on the "Gaming Data with Twitch" project from [Codecademy](https://www.codecademy.com/).
+The project is based on the "Gaming Data with Twitch" project from [Codecademy](https://www.codecademy.com/paths/data-science/tracks/dscp-data-visualization/modules/dscp-matplotlib-challenge-projects/articles/twitch-project).
 
 ## Contact
 GitHub [@anlifi](https://github.com/anlifi) | LinkedIn [Angelina Fischer](https://www.linkedin.com/in/angelina-fischer-a424111b0/)
